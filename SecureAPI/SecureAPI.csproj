@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+
+
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="Views\" />
+    <Folder Include="Views\Home\" />
+    <Folder Include="AuthorizationRequirements\" />
+    <Folder Include="Transformer\" />
+    <Folder Include="CustomPolicyProvider\" />
+    <Folder Include="Pages\" />
+    <Folder Include="Pages\Razor\" />
+    <Folder Include="Pages\RazorSecured\" />
+  </ItemGroup>
+</Project>

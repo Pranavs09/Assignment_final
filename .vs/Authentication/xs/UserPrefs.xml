@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{61E14ED6-128D-4043-AD18-89C11CD4559D}|Default">
+  <MonoDevelop.Ide.ItemProperties.oauth.Api PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.oauth.Server PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Server/Program.cs">
+    <Files>
+      <File FileName="Server/Controllers/OAuthController.cs" Line="60" Column="60" />
+      <File FileName="Server/Program.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Authentication" expanded="True">
+            <Node name="Basic" expanded="True">
+              <Node name="SecureAPI" expanded="True" selected="True" />
+            </Node>
+            <Node name="oauth" expanded="True">
+              <Node name="Client" expanded="True" />
+              <Node name="Server" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.oauth.Client PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Server/Client/Client.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Basic.SecureAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.ItemProperties.Basic.Identity PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/pranavsharma/Desktop/FINAL PROJECT/Authentication/Server/Controllers/OAuthController.cs" relfile="Server/Controllers/OAuthController.cs" line="42" column="1" />
+      <Breakpoint file="/Users/pranavsharma/Desktop/FINAL PROJECT/Authentication/testapi/Startup.cs" relfile="testapi/Startup.cs" line="42" column="1" />
+      <Breakpoint file="/Users/pranavsharma/Desktop/FINAL PROJECT/Authentication/testapi/Startup.cs" relfile="testapi/Startup.cs" line="37" column="1" />
+      <Breakpoint file="/Users/pranavsharma/Desktop/FINAL PROJECT/Authentication/testapi/Startup.cs" relfile="testapi/Startup.cs" line="39" column="1" />
+      <Breakpoint file="/Users/pranavsharma/Desktop/FINAL PROJECT/Authentication/Server/Controllers/OAuthController.cs" relfile="Server/Controllers/OAuthController.cs" line="89" column="1" />
+      <Breakpoint file="/Users/pranavsharma/Desktop/FINAL PROJECT/Authentication/Server/Controllers/OAuthController.cs" relfile="Server/Controllers/OAuthController.cs" line="43" column="1" />
+      <Breakpoint file="/Users/pranavsharma/Desktop/FINAL PROJECT/Authentication/Client/Startup.cs" relfile="Client/Startup.cs" line="49" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{F375C40F-AA49-4A95-9024-6C22AC6A409A}" ItemName="Api" ConfigurationId="Default" />
+        <StartupItem ItemId="{373F8E8D-662D-4B8F-B867-DAF76D9E53CB}" ItemName="Client" ConfigurationId="Default" />
+        <StartupItem ItemId="{8C327F85-1B20-46D7-9B13-37F2C00D53FD}" ItemName="Server" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>
